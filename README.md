@@ -11,7 +11,7 @@ To be completed...
  1. Fork this Repo and enable Github Action
  2. Open CloudFlare and create KV namespace with name `settings` then copy the ID
  3. Go to this forked repo and set secrets with name `805c9f2350ee40a780545a71712d6d95` and fill with KV settings ID
- 4. Edit this `README.md` file, then find and replace this button url bellow with yours `https://github.com/uptnt/v2ray-worker` then save it.
+ 4. Edit this `README.md` file, then find and replace this button url bellow with yours `https://github.com/owner121/v2ray-worker` then save it.
  4. then press `Deploy With Workers` and follow the instruction
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/vfarid/v2ray-worker)
